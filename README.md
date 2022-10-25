@@ -1,5 +1,5 @@
 # ChessProj
-A chess program made using JavaFX.
+A chess program made using JavaFX 14.
 Created by Nnamdi Obi and Terrence Hampton for NCSSM's CS4060 "Java with Topics" course.
 
 Compile this function by using a java compiler that compiles with javafx packages on the BoardDisplay.java file.
