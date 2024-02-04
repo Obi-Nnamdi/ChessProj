@@ -63,6 +63,7 @@ public class BoardDisplay extends Application
    	@Override
     public void start(Stage primary)
     {
+		primary.setTitle("JavaFX Chess App");
 		StackPane root = new StackPane();
 		Canvas canvas = new Canvas(600, 600);
 		BorderPane bp = new BorderPane();
